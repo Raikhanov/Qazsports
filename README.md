@@ -33,3 +33,8 @@ QazSports — это онлайн-магазин одежды для спорт�
    - Администратор может изменять статус товаров и отправлять заказы.
    ![adminpanel](https://raw.githubusercontent.com/Raikhanov/Qazsports/main/images/adminpanel.png)
 ![ordersadmin](https://raw.githubusercontent.com/Raikhanov/Qazsports/main/images/orders.png)
+
+
+
+
+**LINK TO WEBSITE:** https://qazsport-5v9a.onrender.com
